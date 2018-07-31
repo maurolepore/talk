@@ -1,5 +1,7 @@
 # meetups
 
+![Logo](https://user-images.githubusercontent.com/6617332/43475741-af31228c-94c4-11e8-8f3b-d24fa4f14f98.jpeg)
+
 This is a group of R users that meets bi-monthly in the museum (room 430) to learn new packages, teach each other new skills, and troubleshoot code together. All levels of familiarity with R are welcome. If you are interested in participating, please reply to [balkm@si.edu](balkm@si.edu) to get updates as these meetings get organized.
 
 # Schedule:
