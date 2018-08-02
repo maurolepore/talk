@@ -18,3 +18,8 @@ We are supported by the R Consortium. All members must adhere to the [code of co
 | Aug. 1st | BioGeoBEARS |
 | Aug. 15th | un-break code |
 | Aug. 29th | Community data |
+| Sept. 12th | un-break code |
+| Sept. 26th | TBD |
+| Oct. 10th | un-break code |
+| Oct. 24th | TBD |
+| Nov. 7th | un-break code |
