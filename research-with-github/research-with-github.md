@@ -1,13 +1,15 @@
 Managing research with GitHub
 ================
 
-Shortlink to here: <http://bit.ly/xxx-link-to-decide>
-
 [@mauro\_lepore](https://twitter.com/mauro_lepore)  
 2018-08-29, 1-2:30 pm ([compare with your time
 zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Managing+research+with+GitHub&iso=20180829T13&p1=263&ah=1&am=30))  
 NMNH, Director’s Conference Room - 430  
 You don’t need to register – Just show up.
+
+Shortlink to here: <http://bit.ly/research-with-github>  
+Link to join the meeting online: [To be confirmed]()  
+Link to video recording: [To be confirmed]()
 
 ### Description
 
