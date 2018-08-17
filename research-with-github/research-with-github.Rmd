@@ -33,3 +33,8 @@ In this meetup I'll show how you can use GitHub to manage your research. Althoug
 * Track conversations for each project.
 * Manage notifications.
 * Clone and connect a GitHub project with RStudio.
+
+### Resources
+
+* [Request unlimited free private repos](https://github.com/forestgeo/learn/issues/22).
+* [Join r-adm](https://github.com/r-adm/forum/issues/1).
