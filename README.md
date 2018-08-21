@@ -19,7 +19,7 @@ We are supported by the R Consortium. All members must adhere to the [code of co
 | Aug. 15th | un-break code |
 | Aug. 29th | GitHub |
 | Sept. 12th | un-break code |
-| Sept. 26th | TBD |
+| Sept. 26th | GIS |
 | Oct. 10th | un-break code |
-| Oct. 24th | TBD |
+| Oct. 24th | parsing |
 | Nov. 7th | un-break code |
