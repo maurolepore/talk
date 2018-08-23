@@ -37,4 +37,10 @@ In this meetup I'll show how you can use GitHub to manage your research. Althoug
 ### Resources
 
 * [Request unlimited free private repos](https://github.com/forestgeo/learn/issues/22).
-* [Join r-adm](https://github.com/r-adm/forum/issues/1).
+
+* [Help via welcome-email](https://help.github.com/articles/git-and-github-learning-resources/)
+
+* What is the difference between GitHub and GitHub education?
+
+* [Join r-adm to help each other](https://github.com/r-adm/forum/issues/1).
+
