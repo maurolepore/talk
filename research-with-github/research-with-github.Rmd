@@ -15,9 +15,9 @@ knitr::opts_chunk$set(
 NMNH, Director's Conference Room - 430  
 You don't need to register -- Just show up.   
 
-Shortlink to here: http://bit.ly/research-with-github  
-Link to join the meeting online: [To be confirmed]()   
-Link to video recording: [To be confirmed]()  
+* [Link and instructions to join remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
+* Link to video recording: [To be confirmed]() 
+* Shortlink to here: http://bit.ly/research-with-github  
 
 ### Description
 
