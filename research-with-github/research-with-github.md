@@ -9,7 +9,6 @@ You don’t need to register – Just show up.
 
   - [Link and instructions to join
     remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
-  - Link to video recording: [To be confirmed]()
   - Shortlink to here: <http://bit.ly/research-with-github>
 
 ### Description
@@ -38,11 +37,3 @@ yourself whenever you practice on your own time.
 
   - [Request unlimited free private
     repos](https://github.com/forestgeo/learn/issues/22).
-
-  - [Help via
-    welcome-email](https://help.github.com/articles/git-and-github-learning-resources/)
-
-  - What is the difference between GitHub and GitHub education?
-
-  - [Join r-adm to help each
-    other](https://github.com/r-adm/forum/issues/1).
