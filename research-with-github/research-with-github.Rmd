@@ -26,7 +26,8 @@ In this meetup I'll show how you can use GitHub to manage your research.
 
 * Create a research organization to manage multiple projects.
 * Create an organization-wide webpage.
-* Create private and public projects (folders) to store almost anything.
+* Create private and public projects (fold
+ers) to store almost anything.
 * Create a project-specific webpage.
 * Add colleagues to your organization and organize them in teams to work on specific projects.
 * Track conversations for each project.
