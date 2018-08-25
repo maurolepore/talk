@@ -1,0 +1,89 @@
+---
+title: "GitHub to manage projects"
+subtitle: "`http://bit.ly/research-with-github`"
+author: \@mauro_lepore
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  collapse = TRUE
+)
+```
+
+## http://bit.ly/research-with-github
+
+2018-08-29, 1-2:30 pm  
+NMNH, Director's Conference Room - 430  
+
+[Or join remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
+
+## Outline
+
+# Your projects
+
+## How can you manage your projects?
+
+* Create private and public projects (folders) to store almost anything.
+
+* Create a project-specific webpage.
+   * README.
+   * GitHub pages.
+
+* Issues as project-specific TODO lists
+
+Learn more: (TODO add links)
+
+* Create a user-wide website with project-specific webpages
+* Pull requests
+* Wikies
+* GitHub projects
+
+## How can you manage your collaborators?
+
+* Invite collaborators.
+
+* Create teams???
+
+* Issues to track project-specific conversations.
+
+* Manage notifications.
+
+# Your organization's projects
+
+## What is a GitHub organization and when you need it?
+
+* Control privileges.
+
+* Examples.
+
+* How? (Same as for a user account).
+
+* Invite members.
+
+* Teams.
+
+
+* Create an organization-wide web site and project-specific webpages. 
+    * MarineGEO???
+    * rOpenSci???
+    * r-lib, tidyverse, others???
+
+## GitHub, Git, and RStudio
+
+* Clone and connect a GitHub project with RStudio
+
+Learn more:
+
+* Webinars
+* Happy Git and Github for the R user
+
+# 
+
+end
+
+## TEMPLATES
+
+<img src="blog.png" align="right" width = 750 />
+
