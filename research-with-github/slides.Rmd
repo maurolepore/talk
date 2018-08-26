@@ -30,6 +30,8 @@ Learn more about [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 
 
+
+
 ## Outline
 
 Where do your projects live and can you manage them?
@@ -42,12 +44,15 @@ Where do your projects live and can you manage them?
 
 
 
-# Your projects | `https://github.com/your-account`
+
+
+# Repositories (projects) | `https://github.com/username/repository`
 
 * Create new repository.
 * Make private/public.
 * Create a simple page via README.
 * Delete repository.
+* [Get unlimited private repos](https://education.github.com/discount_requests/new).
 
 ## 
 
@@ -57,7 +62,16 @@ Where do your projects live and can you manage them?
 
 <img src="img/danger-zone.png" align="right" width = 750 />
 
-# How to manage projects on GitHub?
+
+
+
+
+# Issues
+
+* What are issues?
+* Creating a new issue.
+* Organizing issues.
+* Issues templates.
 
 ## 
 
@@ -75,7 +89,7 @@ Where do your projects live and can you manage them?
 
 <img src="img/issues-templates.png" align="right" width = 750 />
 
-## Learn more: Projects boards, Wikis
+## Learn more: Projects boards, Wikis | E.g. https://github.com/orgs/forestgeo/projects/1
 
 <img src="img/projects.png" align="right" width = 750 />
 
@@ -83,71 +97,88 @@ Where do your projects live and can you manage them?
 
 
 
-
 # Collaborating
 
-## How can you manage your collaborators?
+* Who can and can't edit?
 
-* Invite collaborators.
+## Who can edit?: Example
 
-* Create teams???
+* maurolepore can edit https://github.com/maurolepore/abc/
+* forestgeoguest can't edit yet.
+* maurolepore invites forestgeoguest.
+* forestgeoguest accepts .../maurolepore/abc/invitations
+* forestgeoguest can edit but can't control settings.
 
-* Manage notifications.
+## 
 
-## Learn more
+<img src="img/invite-collaborator.png" align="right" width = 750 />
 
-Learn more: (TODO add links)
+## Manage notifications: Repository level
 
-* https://guides.github.com/
-* Create a user-wide website with project-specific webpages
-* Pull requests
-* Wikies
-* GitHub projects
+<img src="img/notify-repo.png" align="right" width = 750 />
 
+## Manage notifications: Issue level
 
-
-
-
-
-# Your pages | `https://your-account.github.io`
-
-https://maurolepore.github.io/
-
-## Create a project-specific page
-
-`https://github.com/your-account/repo/settings`
-
-https://github.com/maurolepore/abc/settings
-
-https://maurolepore.github.io/abc/
-
-
-Tip: Create an account-wide page via the repo `your-account.github.io/`
-
-Example
-* This is the page of my-account https://maurolepore.github.io/
-* I built it here: https://github.com/maurolepore/maurolepore.github.io
-
-## Learm more
-
-https://pages.github.com/
+<img src="img/notify-issue.png" align="right" width = 750 />
 
 
 
 
 
 
-# From `your-account` to `your-organization`
+
+# Pages | `https://your-account.github.io`
+
+E.g. https://maurolepore.github.io/
+
+* Create a project-specific page from scratch 
+* Create a project-specific page from README
+* Create a user-wide page (home for your projects)
+
+## 
+
+<img src="img/pages-setup.png" align="right" width = 750 />
+
+## 
+
+<img src="img/pages-theme.png" align="right" width = 750 />
+
+## 
+
+<img src="img/pages-site.png" align="right" width = 750 />
+
+## Home for your projects | Create repository `your-account.github.io/`
+
+Example:
+
+* Home page: https://maurolepore.github.io/
+
+* Repo: https://github.com/maurolepore/maurolepore.github.io
+
+### Learm more: https://pages.github.com/
+
+
+
+
+
+
+# GitHub organizations
+
+* When do you need an organizaiton?
+* Create an organization ([get unlimited private repos](https://education.github.com/discount_requests/new)).
+* Invite members vs. collaborators.
+* Create teams.
+
+## 
+
+<img src="img/org-explained.png" align="right" width = 750 />
+
+## 
+
+<img src="img/org-new.png" align="right" width = 750 />
 
 ## What is a GitHub organization and when you need it?
 
-* Control privileges.
-
-* Examples.
-
-* How? (Same as for a user account).
-
-* Invite members.
 
 * Teams.
 
