@@ -46,7 +46,7 @@ NMNH, Director's Conference Room - 430
 
 ## Create new repo
 
-<img src="img/new-repo.png" align="right" width = 700 />
+<img src="img/new-repo.png" align="right" width = 650 />
 
 ## Manage privacy and delete
 
@@ -67,7 +67,7 @@ NMNH, Director's Conference Room - 430
 
 <img src="img/issues-example.png" align="right" width = 750 />
 
-## Guide your collaborators with templates
+## Help collaborators with templates
 
 <img src="img/issues-templates.png" align="right" width = 750 />
 
@@ -162,7 +162,7 @@ Learn more:
 
 <img src="img/org-home.png" align="right" width = 650 />
 
-# GitHub and RStudio | Demo when it just works
+# GitHub and RStudio | Inspiraitonal demo: When it just works
 
 * Create a new repository with a basic README.
 * Clone from GitHub to my computer.
