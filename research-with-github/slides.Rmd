@@ -40,15 +40,15 @@ NMNH, Director's Conference Room - 430
 # Repositories | `https://github.com/username/repository`
 
 * Why?
-* Create a new public/private repo including README.
-* Delete a repo.
+* New public/private repo with README.
+* Manage privacy and delete a repo.
 * [Get unlimited private repos](https://education.github.com/discount_requests/new).
 
-## Create a new public/private repo with a README
+## Create new repo
 
-<img src="img/new-repo.png" align="right" width = 750 />
+<img src="img/new-repo.png" align="right" width = 700 />
 
-## Delete a repo
+## Manage privacy and delete
 
 <img src="img/danger-zone.png" align="right" width = 750 />
 
@@ -59,19 +59,15 @@ NMNH, Director's Conference Room - 430
 * Organizing issues.
 * Issues templates.
 
-## 
-
-<img src="img/issues-master.png" align="right" width = 750 />
-
-## 
+## Create a new issue
 
 <img src="img/issues-new.png" align="right" width = 750 />
 
-## 
+## Organize and find issues
 
 <img src="img/issues-example.png" align="right" width = 750 />
 
-## 
+## Guide your collaborators with templates
 
 <img src="img/issues-templates.png" align="right" width = 750 />
 
@@ -82,7 +78,7 @@ NMNH, Director's Conference Room - 430
 # Collaborating
 
 * Why?
-* Who can and can't change contents and settings of a repo?
+* Who can (not) change contents/settings of a repo?
 * Managing notifications at the repo- and issue-level.
 
 ## Who can edit?: Example
@@ -90,12 +86,8 @@ NMNH, Director's Conference Room - 430
 * maurolepore can edit https://github.com/maurolepore/abc/
 * forestgeoguest can't edit yet.
 * maurolepore invites forestgeoguest.
-* forestgeoguest accepts .../maurolepore/abc/invitations
+* forestgeoguest accepts at .../maurolepore/abc/invitations
 * forestgeoguest can edit but can't control settings.
-
-## 
-
-<img src="img/invite-collaborator.png" align="right" width = 750 />
 
 ## Manage notifications: Repository level
 
@@ -108,27 +100,27 @@ NMNH, Director's Conference Room - 430
 # Pages | `https://your-account.github.io`
 
 * Why?
-* Create a repo-specific page
-* Create a user-wide page (home for all your repo-pages)
+* Create a repo-specific page.
+* Create a user-wide page.
 
-## 
+## Create a repo-specific page
 
 <img src="img/pages-setup.png" align="right" width = 750 />
 
-## 
+## Create a repo-specific page
 
 <img src="img/pages-theme.png" align="right" width = 750 />
 
-## 
+## Create a repo-specific page
 
 <img src="img/pages-site.png" align="right" width = 750 />
 
-## User-wide page | via repo `your-account.github.io/`
+## Create a User-wide page | via repo `your-account.github.io/`
 
 Example:
 
-* Home page: https://maurolepore.github.io/
-* Repo: https://github.com/maurolepore/maurolepore.github.io
+* https://maurolepore.github.io/
+* https://github.com/maurolepore/maurolepore.github.io
 
 Learn more:
 
@@ -138,43 +130,37 @@ Learn more:
 # Organizations
 
 * Why?
-* Create an organization ([get unlimited private repos](https://education.github.com/discount_requests/new)).
-* Invite people (member/owner) vs. collaborators.
+* Create an organization ([get private repos](https://education.github.com/discount_requests/new)).
+* Invite people (members/owners).
 * Create teams.
 
-## 
-
-<img src="img/org-explained.png" align="right" width = 750 />
-
-## 
+## Create a new organization
 
 <img src="img/org-new.png" align="right" width = 750 />
 
-## 
+## Invite people
 
 <img src="img/org-invite.png" align="right" width = 750 />
 
-## 
+## Invite people
 
 <img src="img/org-invite2.png" align="right" width = 750 />
 
-## 
+## Create new team
 
-<img src="img/team-new.png" align="right" width = 750 />
+<img src="img/team-new.png" align="right" width = 700 />
 
-## 
+## Manage people
 
 <img src="img/people-manage.png" align="right" width = 750 />
 
-## 
+## Mention entire teams
 
 <img src="img/team-mention.png" align="right" width = 750 />
 
-## Organizaiton pages
+## Create an organizaiton-wide page
 
-## 
-
-<img src="img/org-home.png" align="right" width = 750 />
+<img src="img/org-home.png" align="right" width = 650 />
 
 # GitHub and RStudio | Demo when it just works
 
