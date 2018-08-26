@@ -130,7 +130,7 @@ Example:
 * Home page: https://maurolepore.github.io/
 * Repo: https://github.com/maurolepore/maurolepore.github.io
 
-Learm more:
+Learn more:
 
 * https://pages.github.com/
 * https://help.github.com/articles/user-organization-and-project-pages/
