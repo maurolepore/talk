@@ -21,26 +21,35 @@ NMNH, Director's Conference Room - 430
 
 ## Outline
 
-# Your projects
+Where do your projects live and can you manage them?
+`https://github.com/your-account`
 
-## How can you manage your projects?
+* Where do your projects' pages live and how can you create them easily?
+`https://your-account.github.io`
 
-* Create private and public projects (folders) to store almost anything.
+* When `your-account` isn't enough and is best to have `your-organization`?
 
-* Create a project-specific webpage.
-   * README.
-   * GitHub pages.
 
-* Issues as project-specific TODO lists
 
-Learn more: (TODO add links)
+# Your projects | `https://github.com/your-account`
 
-* Create a user-wide website with project-specific webpages
-* Pull requests
-* Wikies
-* GitHub projects
+### https://github.com/maurolepore
 
-## How can you manage your collaborators?
+## Your projects
+
+### Create a project same as repository or__REPO__
+
+`https://github.com/your-account/repo`
+
+https://github.com/maurolepore/abc
+
+Create a README.md file and you immediately get a functional webpage.
+
+Learn more: https://guides.github.com/features/mastering-markdown/
+
+## How to manage projects on GitHub?
+
+### How can you manage your collaborators?
 
 * Invite collaborators.
 
@@ -50,7 +59,50 @@ Learn more: (TODO add links)
 
 * Manage notifications.
 
-# Your organization's projects
+## Learn more
+
+Learn more: (TODO add links)
+
+* https://guides.github.com/
+* Create a user-wide website with project-specific webpages
+* Pull requests
+* Wikies
+* GitHub projects
+
+
+
+
+
+
+# Your pages | `https://your-account.github.io`
+
+https://maurolepore.github.io/
+
+## Create a project-specific page
+
+`https://github.com/your-account/repo/settings`
+
+https://github.com/maurolepore/abc/settings
+
+https://maurolepore.github.io/abc/
+
+
+Tip: Create an account-wide page via the repo `your-account.github.io/`
+
+Example
+* This is the page of my-account https://maurolepore.github.io/
+* I built it here: https://github.com/maurolepore/maurolepore.github.io
+
+## Learm more
+
+https://pages.github.com/
+
+
+
+
+
+
+# From `your-account` to `your-organization`
 
 ## What is a GitHub organization and when you need it?
 
