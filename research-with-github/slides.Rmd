@@ -12,12 +12,23 @@ knitr::opts_chunk$set(
 )
 ```
 
-## http://bit.ly/research-with-github
+## http://bit.ly/research-with-github |
+[\@mauro_lepore](https://twitter.com/mauro_lepore)
 
 2018-08-29, 1-2:30 pm  
 NMNH, Director's Conference Room - 430  
-
 [Or join remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
+
+
+
+## About this talk
+
+### About managing your projects online.
+### NOT about code.
+
+Learn more about [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+
 
 ## Outline
 
@@ -33,29 +44,53 @@ Where do your projects live and can you manage them?
 
 # Your projects | `https://github.com/your-account`
 
-### https://github.com/maurolepore
+* Create new repository.
+* Make private/public.
+* Create a simple page via README.
+* Delete repository.
 
-## Your projects
+## 
 
-### Create a project same as repository or__REPO__
+<img src="img/new-repo.png" align="right" width = 750 />
 
-`https://github.com/your-account/repo`
+## 
 
-https://github.com/maurolepore/abc
+<img src="img/danger-zone.png" align="right" width = 750 />
 
-Create a README.md file and you immediately get a functional webpage.
+# How to manage projects on GitHub?
 
-Learn more: https://guides.github.com/features/mastering-markdown/
+## 
 
-## How to manage projects on GitHub?
+<img src="img/issues-master.png" align="right" width = 750 />
 
-### How can you manage your collaborators?
+## 
+
+<img src="img/issues-new.png" align="right" width = 750 />
+
+## 
+
+<img src="img/issues-example.png" align="right" width = 750 />
+
+## 
+
+<img src="img/issues-templates.png" align="right" width = 750 />
+
+## Learn more: Projects boards, Wikis
+
+<img src="img/projects.png" align="right" width = 750 />
+
+
+
+
+
+
+# Collaborating
+
+## How can you manage your collaborators?
 
 * Invite collaborators.
 
 * Create teams???
-
-* Issues to track project-specific conversations.
 
 * Manage notifications.
 
