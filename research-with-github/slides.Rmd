@@ -129,8 +129,6 @@ Where do your projects live and can you manage them?
 
 # Pages | `https://your-account.github.io`
 
-E.g. https://maurolepore.github.io/
-
 * Create a project-specific page from scratch 
 * Create a project-specific page from README
 * Create a user-wide page (home for your projects)
@@ -152,10 +150,13 @@ E.g. https://maurolepore.github.io/
 Example:
 
 * Home page: https://maurolepore.github.io/
-
 * Repo: https://github.com/maurolepore/maurolepore.github.io
 
-### Learm more: https://pages.github.com/
+Learm more:
+
+* https://pages.github.com/
+* https://help.github.com/articles/user-organization-and-project-pages/
+
 
 
 
@@ -166,7 +167,7 @@ Example:
 
 * When do you need an organizaiton?
 * Create an organization ([get unlimited private repos](https://education.github.com/discount_requests/new)).
-* Invite members vs. collaborators.
+* Invite people (member/owner) vs. collaborators.
 * Create teams.
 
 ## 
@@ -177,31 +178,46 @@ Example:
 
 <img src="img/org-new.png" align="right" width = 750 />
 
-## What is a GitHub organization and when you need it?
+## 
+
+<img src="img/org-invite.png" align="right" width = 750 />
+
+## 
+
+<img src="img/org-invite2.png" align="right" width = 750 />
+
+## 
+
+<img src="img/team-new.png" align="right" width = 750 />
+
+## 
+
+<img src="img/people-manage.png" align="right" width = 750 />
 
 
-* Teams.
+# Organizaiton pages
 
+## 
 
-* Create an organization-wide web site and project-specific webpages. 
-    * MarineGEO???
-    * rOpenSci???
-    * r-lib, tidyverse, others???
+<img src="img/org-home.png" align="right" width = 750 />
 
-## GitHub, Git, and RStudio
+# GitHub and RStudio | Demo when it just works
 
-* Clone and connect a GitHub project with RStudio
+* Create a new repository with a basic README.
+* Clone from GitHub to my computer.
+* Change README locally and push changes.
+* Confirm it worked.
 
-Learn more:
+## Learn more:
 
-* Webinars
-* Happy Git and Github for the R user
+* http://happygitwithr.com/
+* [RStudio webinars 1](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-part-2/)
+* [RStudio webinars 2](https://www.rstudio.com/resources/webinars/collaboration-and-time-travel-version-control-with-git-github-and-rstudio/)
+* [Search for GitHub in my R-playlist](https://www.youtube.com/playlist?list=PLvgdJdJDL-AOJKDiV6U09LdOYOTgFpQqN)
+
+## http://bit.ly/research-with-github |
+[\@mauro_lepore](https://twitter.com/mauro_lepore)
 
 # 
 
 end
-
-## TEMPLATES
-
-<img src="blog.png" align="right" width = 750 />
-
