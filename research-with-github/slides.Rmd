@@ -19,56 +19,42 @@ knitr::opts_chunk$set(
 NMNH, Director's Conference Room - 430  
 [Or join remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
 
+## Intro
 
+[What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-## About this talk
+### About this talk
 
-### About managing your projects online.
-### NOT about code.
-
-Learn more about [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-
-
-
-
+* About managing your projects online.
+* NOT about code.
 
 ## Outline
 
-Where do your projects live and can you manage them?
-`https://github.com/your-account`
+* Repositories (__repos__ = super-folders = projects).
+* Issues (= super emails).
+* Collaborating.
+* Pages.
+* Organizations.
+* GitHub and RStudio.
 
-* Where do your projects' pages live and how can you create them easily?
-`https://your-account.github.io`
+# Repositories | `https://github.com/username/repository`
 
-* When `your-account` isn't enough and is best to have `your-organization`?
-
-
-
-
-
-# Repositories (projects) | `https://github.com/username/repository`
-
-* Create new repository.
-* Make private/public.
-* Create a simple page via README.
-* Delete repository.
+* Why?
+* Create a new public/private repo including README.
+* Delete a repo.
 * [Get unlimited private repos](https://education.github.com/discount_requests/new).
 
-## 
+## Create a new public/private repo with a README
 
 <img src="img/new-repo.png" align="right" width = 750 />
 
-## 
+## Delete a repo
 
 <img src="img/danger-zone.png" align="right" width = 750 />
 
-
-
-
-
 # Issues
 
-* What are issues?
+* Why?
 * Creating a new issue.
 * Organizing issues.
 * Issues templates.
@@ -93,13 +79,11 @@ Where do your projects live and can you manage them?
 
 <img src="img/projects.png" align="right" width = 750 />
 
-
-
-
-
 # Collaborating
 
-* Who can and can't edit?
+* Why?
+* Who can and can't change contents and settings of a repo?
+* Managing notifications at the repo- and issue-level.
 
 ## Who can edit?: Example
 
@@ -121,17 +105,11 @@ Where do your projects live and can you manage them?
 
 <img src="img/notify-issue.png" align="right" width = 750 />
 
-
-
-
-
-
-
 # Pages | `https://your-account.github.io`
 
-* Create a project-specific page from scratch 
-* Create a project-specific page from README
-* Create a user-wide page (home for your projects)
+* Why?
+* Create a repo-specific page
+* Create a user-wide page (home for all your repo-pages)
 
 ## 
 
@@ -145,7 +123,7 @@ Where do your projects live and can you manage them?
 
 <img src="img/pages-site.png" align="right" width = 750 />
 
-## Home for your projects | Create repository `your-account.github.io/`
+## User-wide page | via repo `your-account.github.io/`
 
 Example:
 
@@ -157,15 +135,9 @@ Learm more:
 * https://pages.github.com/
 * https://help.github.com/articles/user-organization-and-project-pages/
 
+# Organizations
 
-
-
-
-
-
-# GitHub organizations
-
-* When do you need an organizaiton?
+* Why?
 * Create an organization ([get unlimited private repos](https://education.github.com/discount_requests/new)).
 * Invite people (member/owner) vs. collaborators.
 * Create teams.
@@ -194,8 +166,11 @@ Learm more:
 
 <img src="img/people-manage.png" align="right" width = 750 />
 
+## 
 
-# Organizaiton pages
+<img src="img/team-mention.png" align="right" width = 750 />
+
+## Organizaiton pages
 
 ## 
 
