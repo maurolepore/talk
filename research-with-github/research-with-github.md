@@ -9,7 +9,8 @@ You don’t need to register – Just show up.
 
   - [Link and instructions to join
     remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
-  - Short link to here: <http://bit.ly/research-with-github>
+  - Short link to here: <http://bit.ly/research-with-github>  
+  - [Slides](https://bookdown.org/maurolepore/github/)
 
 ### Description
 
@@ -19,7 +20,7 @@ In this meetup I’ll show how you can use GitHub to manage your research.
 
   - Create a research organization to manage multiple projects.
   - Create an organization-wide webpage.
-  - Create private and public projects (folders) to store almost
+  - Create private and public projects (fold ers) to store almost
     anything.
   - Create a project-specific webpage.
   - Add colleagues to your organization and organize them in teams to
