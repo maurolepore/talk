@@ -31,14 +31,14 @@ NMNH, Director's Conference Room - 430
 * About managing your projects online.
 * NOT about code.
 
-## Outline
+## Outline (and links to videos)
 
-* Repositories (__repos__ = super-folders = projects).
-* Issues (= super emails).
-* Collaborating.
-* Pages.
-* Organizations.
-* GitHub and RStudio.
+* [Repositories (__repos__ = super-folders = projects).](https://youtu.be/ukQJdtGDZpk)
+* [Issues (= super emails).](https://youtu.be/MOjd-11VfCU)
+* [Collaborating.](https://youtu.be/A1-ZYnMAIaA)
+* [Pages.](https://youtu.be/DthsJiB18fg)
+* [Organizations.](https://youtu.be/YPx2bVPRIKQ)
+* [GitHub and RStudio.](https://youtu.be/jc2Jo2_Zfys)
 
 # Repositories | `https://github.com/username/repository`
 
