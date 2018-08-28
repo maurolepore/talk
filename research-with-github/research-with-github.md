@@ -16,20 +16,19 @@ You don’t need to register – Just show up.
 
 In this meetup I’ll show how you can use GitHub to manage your research.
 
-### Tentative outline
+### Outline (and links to videos on YouTube)
 
-  - Create a research organization to manage multiple projects.
-  - Create an organization-wide webpage.
-  - Create private and public projects (fold ers) to store almost
-    anything.
-  - Create a project-specific webpage.
-  - Add colleagues to your organization and organize them in teams to
-    work on specific projects.
-  - Track conversations for each project.
-  - Manage notifications.
-  - Clone and connect a GitHub project with RStudio.
+  - [Repositories (**repos** = super-folders =
+    projects).](https://youtu.be/ukQJdtGDZpk)
+  - [Issues (= super emails).](https://youtu.be/MOjd-11VfCU)
+  - [Collaborating.](https://youtu.be/A1-ZYnMAIaA)
+  - [Pages.](https://youtu.be/DthsJiB18fg)
+  - [Organizations.](https://youtu.be/YPx2bVPRIKQ)
+  - [GitHub and RStudio.](https://youtu.be/jc2Jo2_Zfys)
 
 ### Resources
 
   - [Request unlimited free private
     repos](https://github.com/forestgeo/learn/issues/22).
+  - See more resources on the
+    [slides](https://bookdown.org/maurolepore/github/).
