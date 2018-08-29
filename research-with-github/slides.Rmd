@@ -173,6 +173,17 @@ Learn more:
 ## http://bit.ly/github-to-manage-projects |
 [\@mauro_lepore](https://twitter.com/mauro_lepore)
 
+### Resources
+
+* [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+* [Request unlimited free private repos](https://github.com/forestgeo/learn/issues/22).
+* [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
+* https://help.github.com/
+* https://pages.github.com/
+* http://happygitwithr.com/
+
+
+
 # 
 
 end

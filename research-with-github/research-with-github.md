@@ -28,7 +28,11 @@ In this meetup I’ll show how you can use GitHub to manage your research.
 
 ### Resources
 
+  - [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
   - [Request unlimited free private
     repos](https://github.com/forestgeo/learn/issues/22).
-  - See more resources on the
-    [slides](https://bookdown.org/maurolepore/github/).
+  - [Mastering
+    markdown](https://guides.github.com/features/mastering-markdown/)
+  - <https://help.github.com/>
+  - <https://pages.github.com/>
+  - <http://happygitwithr.com/>
