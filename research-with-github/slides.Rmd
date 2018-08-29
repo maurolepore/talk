@@ -61,7 +61,6 @@ This talk is about managing projects (not code).
 * Why?
 * Creating a new issue.
 * Organizing issues.
-* Issues templates.
 
 ## Create a new issue
 
@@ -131,8 +130,9 @@ Learn more:
 
 * Why?
 * Create an organization ([get private repos](https://education.github.com/discount_requests/new)).
-* Invite people (members/owners).
-* Create teams.
+* Invite people and manage (members/owners).
+* Create teams and \@mention them.
+* Create an organization-wide page.
 
 ## Create a new organization
 
