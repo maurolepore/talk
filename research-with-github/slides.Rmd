@@ -162,7 +162,7 @@ Learn more:
 
 <img src="img/org-home.png" align="right" width = 650 />
 
-# GitHub and RStudio | Inspiraitonal demo: When it just works
+# GitHub and RStudio | Motivational demo: When it just works
 
 * Create a new repository with a basic README.
 * Clone from GitHub to my computer.
