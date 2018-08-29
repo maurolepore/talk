@@ -15,18 +15,24 @@ knitr::opts_chunk$set(
 ## http://bit.ly/github-to-manage-projects |
 [\@mauro_lepore](https://twitter.com/mauro_lepore)
 
-
 2018-08-29, 1-2:30 pm  
 NMNH, Director's Conference Room - 430  
 [Or join remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
 
 [Slides](https://bookdown.org/maurolepore/github/)
 
+Thank you: 
+
+* Meghan Balk, Lucy Chang (https://github.com/nmnh-r-users).
+* Kristen Bullard, Carrie Smith, Sue Zwicker, Paola Gomez.
+
+## Outline
+
 [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-This talk is about managing projects (not code)
+This talk is about managing projects (not code).
 
-## Outline (and links to videos)
+### Topics (and links to videos)
 
 * [Repositories (__repos__ = super-folders = projects).](https://youtu.be/ukQJdtGDZpk)
 * [Issues (= super emails).](https://youtu.be/MOjd-11VfCU)

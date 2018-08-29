@@ -16,7 +16,13 @@ You don’t need to register – Just show up.
 
 In this meetup I’ll show how you can use GitHub to manage your research.
 
-### Outline (and links to videos on YouTube)
+### Outline
+
+[What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+This talk is about managing projects (not code).
+
+### Topics (and links to videos)
 
   - [Repositories (**repos** = super-folders =
     projects).](https://youtu.be/ukQJdtGDZpk)
