@@ -1,4 +1,4 @@
-Managing research with GitHub
+GitHub to manage projects
 ================
 
 [@mauro\_lepore](https://twitter.com/mauro_lepore)  
@@ -9,7 +9,7 @@ You don’t need to register – Just show up.
 
   - [Link and instructions to join
     remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
-  - Short link to here: <http://bit.ly/research-with-github>  
+  - Short link to here: <http://bit.ly/github-to-manage-projects>  
   - [Slides](https://bookdown.org/maurolepore/github/)
 
 ### Description

@@ -1,6 +1,6 @@
 ---
 title: "GitHub to manage projects"
-subtitle: "`http://bit.ly/research-with-github`"
+subtitle: "`http://bit.ly/github-to-manage-projects`"
 author: \@mauro_lepore
 output: ioslides_presentation
 ---
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-## http://bit.ly/research-with-github |
+## http://bit.ly/github-to-manage-projects |
 [\@mauro_lepore](https://twitter.com/mauro_lepore)
 
 
@@ -22,14 +22,9 @@ NMNH, Director's Conference Room - 430
 
 [Slides](https://bookdown.org/maurolepore/github/)
 
-## Intro
-
 [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-### About this talk
-
-* About managing your projects online.
-* NOT about code.
+This talk is about managing projects (not code)
 
 ## Outline (and links to videos)
 
@@ -175,7 +170,7 @@ Learn more:
 * [RStudio webinars 2](https://www.rstudio.com/resources/webinars/collaboration-and-time-travel-version-control-with-git-github-and-rstudio/)
 * [Search for GitHub in my R-playlist](https://www.youtube.com/playlist?list=PLvgdJdJDL-AOJKDiV6U09LdOYOTgFpQqN)
 
-## http://bit.ly/research-with-github |
+## http://bit.ly/github-to-manage-projects |
 [\@mauro_lepore](https://twitter.com/mauro_lepore)
 
 # 
