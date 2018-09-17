@@ -193,3 +193,9 @@ Learn more:
 # 
 
 end
+
+# Feedback / Suggestions
+
+#
+
+> [A] colleague ... had a suggestion/request. He finds it difficult to remember how to open and navigate in GitHub. Seemingly simple things like finding and using your stuff is easy to forget from one session to another if you don’t use it regularly enough. Are there a few basic, introductory steps or tips that could be included at the beginning, with a quick reminder at the end without throwing off your flow of content too much?
