@@ -1,6 +1,6 @@
 ---
 title: "GitHub to manage projects"
-subtitle: "`http://bit.ly/github-to-manage-projects`"
+subtitle: "`http://bit.ly/github-for-projects`"
 author: \@mauro_lepore
 output: ioslides_presentation
 ---
@@ -15,20 +15,21 @@ knitr::opts_chunk$set(
 ## http://bit.ly/github-to-manage-projects |
 [\@mauro_lepore](https://twitter.com/mauro_lepore)
 
-2018-08-29, 1-2:30 pm  
-NMNH, Director's Conference Room - 430  
-[Or join remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
 
-[Slides](https://bookdown.org/maurolepore/github/)
+[Join remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
 
-Thank you: 
+Previous presentations:
 
-* Meghan Balk, Lucy Chang (https://github.com/nmnh-r-users).
-* Kristen Bullard, Carrie Smith, Sue Zwicker, Paola Gomez.
+* 2018-10-11: NMNH library.
+* [2018-08-29: NMNH R-users meetups](https://github.com/nmnh-r-users/meetups).
+
+## Help | [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+<img src="img/gh-help.png" align="right" width = 650 />
+
+
 
 ## Outline
-
-[What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 This talk is about managing projects (not code).
 
@@ -190,9 +191,12 @@ Learn more:
 
 
 
-# 
 
-end
+## End | [bit.ly/mauro-lepore](http://bit.ly/mauro-lepore)
+
+<img src="img/gh-help.png" align="right" width = 650 />
+
+
 
 # Feedback / Suggestions
 
