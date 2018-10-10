@@ -1,7 +1,7 @@
 ---
-title: "GitHub to manage projects"
+title: "GitHub for projects"
 subtitle: "`http://bit.ly/github-for-projects`"
-author: \@mauro_lepore
+author: bit.ly/mauro-lepore
 output: ioslides_presentation
 ---
 
@@ -12,16 +12,19 @@ knitr::opts_chunk$set(
 )
 ```
 
-## http://bit.ly/github-to-manage-projects |
-[\@mauro_lepore](https://twitter.com/mauro_lepore)
+## bit.ly/github-for-projects
 
+Join remotely at [bit.ly/mauro-vidyo](https://bit.ly/mauro-vidyo)
 
-[Join remotely](https://gist.github.com/maurolepore/554491aa1d2bc03f85bbc990b8bacd18)
+([bit.ly/mauro-vidyo-info](https://bit.ly/mauro-vidyo-info))
 
+```{r, results="asis", echo=FALSE, eval=FALSE}
 Previous presentations:
 
-* 2018-10-11: NMNH library.
+* [2018-10-11: NMNH library](https://gist.github.com/maurolepore/308c94093ceb9dbbf217bb0b74d6fe1c).
 * [2018-08-29: NMNH R-users meetups](https://github.com/nmnh-r-users/meetups).
+```
+
 
 ## Help | [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
