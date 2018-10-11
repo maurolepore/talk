@@ -26,24 +26,26 @@ Previous presentations:
 ```
 
 
-## Help | [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+## <https://help.github.com/>
+
+* [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+* <https://guides.github.com/>
 
 <img src="img/gh-help.png" align="right" width = 650 />
 
 
 
-## Outline
+## Outline | Not about code
 
-This talk is about managing projects (not code).
+### Topics and links to recordings:
 
-### Topics (and links to videos)
-
-* [Repositories (__repos__ = super-folders = projects).](https://youtu.be/ukQJdtGDZpk)
-* [Issues (= super emails).](https://youtu.be/MOjd-11VfCU)
-* [Collaborating.](https://youtu.be/A1-ZYnMAIaA)
-* [Pages.](https://youtu.be/DthsJiB18fg)
-* [Organizations.](https://youtu.be/YPx2bVPRIKQ)
-* [GitHub and RStudio.](https://youtu.be/jc2Jo2_Zfys)
+* [Repositories](https://youtu.be/ukQJdtGDZpk).
+* [Issues](https://youtu.be/MOjd-11VfCU).
+* [Collaborating](https://youtu.be/A1-ZYnMAIaA).
+* [Pages](https://youtu.be/DthsJiB18fg).
+* [Organizations](https://youtu.be/YPx2bVPRIKQ).
+* [GitHub and RStudio](https://youtu.be/jc2Jo2_Zfys).
 
 # Repositories | `https://github.com/username/repository`
 
